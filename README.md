@@ -30,8 +30,6 @@ Trabalho no ciclo completo: engenharia de requisitos, arquitetura, desenvolvimen
 Acredito que a tecnologia é o centro da economia contemporânea, e que software bom é aquele em que a informação é **íntegra** e o sistema é **confiável**. É esse o padrão que busco em cada projeto.
 
 - 🔭 Atualmente na **Divisão de TI da DFPC · Exército Brasileiro**, como Desenvolvedor Full Stack e Analista de Dados em sistemas de abrangência nacional (SIGMA, SICOFA, SisGCorp e SICOEX)
-- 🏗️ Construindo o **SISJOGOS**, plataforma em tempo real com Java 21, React 19 e RabbitMQ
-- 💬 Interesses: arquitetura de software, sistemas em tempo real, DevOps, observabilidade e dados
 
 ---
 
