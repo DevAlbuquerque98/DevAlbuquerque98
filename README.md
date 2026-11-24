@@ -117,16 +117,6 @@ out/23 ── jun/25   SCM Engenharia de Telecomunicações  Processos, Dados e 
 jan/25 ── mai/25   Pedagoginga                         Programador Full Stack
 abr/22 ── out/23   ANVISA                              Gestão digital de processos
 ```
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevAlbuquerque98&show_icons=true&hide_border=true&bg_color=0B1D30&title_color=3B82F6&icon_color=4ADE80&text_color=F3F4F6&locale=pt-br" alt="Estatísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlbuquerque98&layout=compact&hide_border=true&bg_color=0B1D30&title_color=3B82F6&text_color=F3F4F6&locale=pt-br" alt="Linguagens" />
-</p>
-
 ---
 
 <p align="center">
